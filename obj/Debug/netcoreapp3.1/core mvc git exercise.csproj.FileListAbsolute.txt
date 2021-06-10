@@ -1,0 +1,37 @@
+D:\Git Workspace\core mvc git exercise\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Git Workspace\core mvc git exercise\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Git Workspace\core mvc git exercise\bin\Debug\netcoreapp3.1\core mvc git exercise.exe
+D:\Git Workspace\core mvc git exercise\bin\Debug\netcoreapp3.1\core mvc git exercise.deps.json
+D:\Git Workspace\core mvc git exercise\bin\Debug\netcoreapp3.1\core mvc git exercise.runtimeconfig.json
+D:\Git Workspace\core mvc git exercise\bin\Debug\netcoreapp3.1\core mvc git exercise.runtimeconfig.dev.json
+D:\Git Workspace\core mvc git exercise\bin\Debug\netcoreapp3.1\core mvc git exercise.dll
+D:\Git Workspace\core mvc git exercise\bin\Debug\netcoreapp3.1\core mvc git exercise.pdb
+D:\Git Workspace\core mvc git exercise\bin\Debug\netcoreapp3.1\core mvc git exercise.Views.dll
+D:\Git Workspace\core mvc git exercise\bin\Debug\netcoreapp3.1\core mvc git exercise.Views.pdb
+D:\Git Workspace\core mvc git exercise\obj\Debug\netcoreapp3.1\core mvc git exercise.csprojAssemblyReference.cache
+D:\Git Workspace\core mvc git exercise\obj\Debug\netcoreapp3.1\core mvc git exercise.AssemblyInfoInputs.cache
+D:\Git Workspace\core mvc git exercise\obj\Debug\netcoreapp3.1\core mvc git exercise.AssemblyInfo.cs
+D:\Git Workspace\core mvc git exercise\obj\Debug\netcoreapp3.1\core mvc git exercise.csproj.CoreCompileInputs.cache
+D:\Git Workspace\core mvc git exercise\obj\Debug\netcoreapp3.1\core mvc git exercise.MvcApplicationPartsAssemblyInfo.cache
+D:\Git Workspace\core mvc git exercise\obj\Debug\netcoreapp3.1\core mvc git exercise.RazorAssemblyInfo.cache
+D:\Git Workspace\core mvc git exercise\obj\Debug\netcoreapp3.1\core mvc git exercise.RazorAssemblyInfo.cs
+D:\Git Workspace\core mvc git exercise\obj\Debug\netcoreapp3.1\staticwebassets\core mvc git exercise.StaticWebAssets.Manifest.cache
+D:\Git Workspace\core mvc git exercise\obj\Debug\netcoreapp3.1\staticwebassets\core mvc git exercise.StaticWebAssets.xml
+D:\Git Workspace\core mvc git exercise\obj\Debug\netcoreapp3.1\scopedcss\bundle\core mvc git exercise.styles.css
+D:\Git Workspace\core mvc git exercise\obj\Debug\netcoreapp3.1\core mvc git exercise.TagHelpers.input.cache
+D:\Git Workspace\core mvc git exercise\obj\Debug\netcoreapp3.1\core mvc git exercise.TagHelpers.output.cache
+D:\Git Workspace\core mvc git exercise\obj\Debug\netcoreapp3.1\core mvc git exercise.RazorCoreGenerate.cache
+D:\Git Workspace\core mvc git exercise\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Git Workspace\core mvc git exercise\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\Git Workspace\core mvc git exercise\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\Git Workspace\core mvc git exercise\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Git Workspace\core mvc git exercise\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Git Workspace\core mvc git exercise\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Git Workspace\core mvc git exercise\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Git Workspace\core mvc git exercise\obj\Debug\netcoreapp3.1\core mvc git exercise.RazorTargetAssemblyInfo.cache
+D:\Git Workspace\core mvc git exercise\obj\Debug\netcoreapp3.1\core mvc git exercise.RazorTargetAssemblyInfo.cs
+D:\Git Workspace\core mvc git exercise\obj\Debug\netcoreapp3.1\core mvc git exercise.Views.pdb
+D:\Git Workspace\core mvc git exercise\obj\Debug\netcoreapp3.1\core mvc git exercise.dll
+D:\Git Workspace\core mvc git exercise\obj\Debug\netcoreapp3.1\core mvc git exercise.pdb
+D:\Git Workspace\core mvc git exercise\obj\Debug\netcoreapp3.1\core mvc git exercise.genruntimeconfig.cache
+D:\Git Workspace\core mvc git exercise\obj\Debug\netcoreapp3.1\core mvc git exercise.csproj.CopyComplete
